@@ -35,25 +35,13 @@ I build, break, and rebuild: always striving for smarter, resilient, and more im
 
 ---
 
-### 💻 **Languages & Tools I Use Most**
+### 💻 **Languages I Use — Real-Time Stats**
 
-<!-- You can adjust these percentages to be more accurate! -->
-| Language/Tech | Usage (%) | Badge |
-|:-------------:|:---------:|:------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | 30% | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | 20% | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
-| ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) | 15% | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) |
-| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | 10% | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) | 8% | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) | 6% | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) | 5% | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) | 3% | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
-| **Other** | 3% | ... |
-
-<!-- Dynamic language stats card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingnoobno1&layout=compact&theme=tokyonight&hide=css,html,scss,shell,batchfile,makefile" alt="Top Langs"/>
 </p>
+
+_These stats are auto-generated based on my public GitHub repositories and update in real time!_
 
 ---
 
