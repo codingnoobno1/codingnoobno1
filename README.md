@@ -34,7 +34,32 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+<p>---
 
+### 📊 Language Usage Percentage (Hardcoded)
+
+- JavaScript    ┃ ██████████████████████████ 37.30%
+- HTML          ┃ ████████████████ 18.80%
+- C++           ┃ █████████████ 15.29%
+- TypeScript    ┃ ████████ 9.50%
+- Python        ┃ ███████ 8.77%
+- CSS           ┃ ████ 4.22%
+- C#            ┃ █ 1.76%
+- C             ┃ █ 1.70%
+- CMake         ┃ ▏ 0.94%
+- SCSS          ┃ ▏ 0.78%
+- Dart          ┃ ▏ 0.25%
+- Shell         ┃ ▏ 0.11%
+- Kotlin        ┃ ▏ 0.11%
+- Objective-C   ┃ ▏ 0.11%
+- Java          ┃ ▏ 0.09%
+- Batchfile     ┃ ▏ 0.09%
+- Swift         ┃ ▏ 0.08%
+- Pug           ┃ ▏ 0.06%
+- Motoko        ┃ ▏ 0.01%
+
+---
+</p>
 ---
 
 ### 💻 **Languages I Use — Real-Time Stats**
