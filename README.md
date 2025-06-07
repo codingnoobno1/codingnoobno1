@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for codingnoobno1 (Tushar Yadav) -->
+<!-- Enhanced GitHub Profile README for codingnoobno1 (Tushar Yadav) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00B4D8&background=000000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Full-Stack+%7C+.NET%2C+MERN%2C+Spring+Boot;Game+%26+Android+Dev;Tech+Strategist+%7C+Head+of+R%26D+@+Pixel+Coding+Club" alt="Typing SVG" />
@@ -27,8 +27,19 @@
 
 ### Hi, I'm Tushar Yadav 👋
 
-As an aspiring Software Engineer, I see technology as a creative playground — where strategic planning meets hands-on development, and every line of code serves a purpose. I don’t just build systems; I craft solutions that are over-prepared, thought-out, and executed with precision.  
-From full-stack apps and AI/ML to cloud systems and cybersecurity tools, I approach every project with a blend of innovation and strategic foresight.
+Aspiring Software Engineer, R&D Head @ Pixel Coding Club, and a passionate technologist.  
+I see technology as a creative playground — where vision meets execution and every line of code is a step closer to a better solution.  
+I build, break, and rebuild: always striving for smarter, more robust systems.
+
+<br>
+
+#### 🖥️ **Operating Systems I Use**
+
+- **Android OS Variants:** Remix OS, Phoenix OS, Prime OS  
+- **Linux Distros:** Ubuntu, Red Hat Enterprise Linux (RHEL), Fedora, CentOS, Linux Mint  
+- **Windows:** (for development, gaming, and design)
+
+*I’m at home in multi-OS environments—experimenting, optimizing, and automating across platforms.*
 
 </div>
 
@@ -36,7 +47,7 @@ From full-stack apps and AI/ML to cloud systems and cybersecurity tools, I appro
 
 #### 🚀 Current Focus
 
-- **Head (R&D) @ Pixel Coding Club**  
+- **Head (R&D) @ Pixel Coding Club:**  
   Leading a fast-moving team dedicated to breaking things on purpose and building smarter, more efficient systems.
 - **Tech Stack Mastery:**  
   MERN, Spring Boot, ASP.NET, MAUI, Xamarin, UE5, Kotlin, Flutter, AI/ML, Cloud Infrastructure, Cybersecurity, and Graphic Design.
@@ -49,7 +60,9 @@ From full-stack apps and AI/ML to cloud systems and cybersecurity tools, I appro
 
 > “No hollow grind, no half-efforts — just deep, meaningful work that pushes boundaries.”
 
-I believe in clean code, clear thinking, and making every technical decision amplify the vision behind a project. I work with creative diplomats who know when to ship and when to laugh. If you’re serious about tech that truly matters and can match my energy (without taking yourself too seriously), we’ll probably vibe.
+I believe in clean code, clear thinking, and making every technical decision amplify the vision behind a project.  
+I work with creative diplomats who know when to ship and when to laugh.  
+If you’re serious about tech that truly matters and can match my energy (without taking yourself too seriously), we’ll probably vibe.
 
 ---
 
