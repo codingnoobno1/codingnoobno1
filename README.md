@@ -1,7 +1,7 @@
 <!-- Enhanced GitHub Profile README for codingnoobno1 (Tushar Yadav) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00B4D8&background=000000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Full-Stack+%7C+.NET%2C+MERN%2C+Spring+Boot;Game+%26+Android+Dev;Tech+Strategist+%7C+Head+of+R%26D+@+Pixel+Coding+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00B4D8&background=000000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Full-Stack+%7C+.NET%2C+MERN%2C+Spring+Boot;Game+%26+Android+Dev;Tech+Strategist+%7C+Head+of+R%26D+@+Pixel+Coding+Club" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,44 +25,66 @@
 
 <div align="center">
 
-### Hi, I'm Tushar Yadav 👋
+## Hi, I'm Tushar Yadav 👋
 
-Aspiring Software Engineer, R&D Head @ Pixel Coding Club, and a passionate technologist.  
-I see technology as a creative playground — where vision meets execution and every line of code is a step closer to a better solution.  
-I build, break, and rebuild: always striving for smarter, more robust systems.
-
-<br>
-
-#### 🖥️ **Operating Systems I Use**
-
-- **Android OS Variants:** Remix OS, Phoenix OS, Prime OS  
-- **Linux Distros:** Ubuntu, Red Hat Enterprise Linux (RHEL), Fedora, CentOS, Linux Mint  
-- **Windows:** (for development, gaming, and design)
-
-*I’m at home in multi-OS environments—experimenting, optimizing, and automating across platforms.*
+Aspiring Software Engineer, Head of R&D @ Pixel Coding Club, and passionate technologist.<br>
+I see technology as a creative playground — where vision meets execution and every line of code is a step closer to a breakthrough.<br>
+I build, break, and rebuild: always striving for smarter, resilient, and more impactful systems.
 
 </div>
 
 ---
 
-#### 🚀 Current Focus
+### 💻 **Languages & Tools I Use Most**
 
-- **Head (R&D) @ Pixel Coding Club:**  
-  Leading a fast-moving team dedicated to breaking things on purpose and building smarter, more efficient systems.
-- **Tech Stack Mastery:**  
-  MERN, Spring Boot, ASP.NET, MAUI, Xamarin, UE5, Kotlin, Flutter, AI/ML, Cloud Infrastructure, Cybersecurity, and Graphic Design.
-- **Tech Strategy & Cybersecurity:**  
-  Building robust, scalable, and compliant infrastructures using tools like Microsoft Defender for Cloud, Azure Sentinel, Red Hat Enterprise Linux security modules, Office 365 Defender, and AWS-native security.
+<!-- You can adjust these percentages to be more accurate! -->
+| Language/Tech | Usage (%) | Badge |
+|:-------------:|:---------:|:------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | 30% | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | 20% | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
+| ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) | 15% | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | 10% | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) | 8% | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) | 6% | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) |
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) | 5% | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) | 3% | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
+| **Other** | 3% | ... |
+
+<!-- Dynamic language stats card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingnoobno1&layout=compact&theme=tokyonight&hide=css,html,scss,shell,batchfile,makefile" alt="Top Langs"/>
+</p>
 
 ---
 
-#### 🧑‍💻 What Drives Me
+### 🖥️ **Operating Systems I Use**
+
+- **Android OS Variants:** Remix OS, Phoenix OS, Prime OS  
+- **Linux Distros:** Ubuntu, RHEL, Fedora, CentOS, Linux Mint  
+- **Windows:** For development, gaming, and design
+
+*I thrive in multi-OS environments — experimenting, optimizing, automating across platforms.*
+
+---
+
+### 🚀 **Current Focus**
+
+- **Head (R&D) @ Pixel Coding Club:**  
+  Leading a team that's not afraid to break things for the sake of building smarter systems.
+- **Tech Stack Mastery:**  
+  MERN, Spring Boot, ASP.NET, MAUI, Xamarin, UE5, Kotlin, Flutter, AI/ML, Cloud, Security, and Design.
+- **Tech Strategy & Cybersecurity:**  
+  Building robust, scalable, and compliant infrastructures using Microsoft Defender for Cloud, Azure Sentinel, RHEL security, Office 365 Defender, AWS-native security.
+
+---
+
+### 🧑‍💻 **What Drives Me**
 
 > “No hollow grind, no half-efforts — just deep, meaningful work that pushes boundaries.”
 
-I believe in clean code, clear thinking, and making every technical decision amplify the vision behind a project.  
+I believe in clean code, clear thinking, and making technical decisions that amplify vision.  
 I work with creative diplomats who know when to ship and when to laugh.  
-If you’re serious about tech that truly matters and can match my energy (without taking yourself too seriously), we’ll probably vibe.
+If you’re serious about tech that matters — and can match my energy (without taking yourself too seriously) — let’s vibe.
 
 ---
 
