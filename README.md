@@ -54,10 +54,8 @@ Head of R&D at Pixel Coding Club, working on real-world systems that prioritize 
 ## ⚙️ GitHub Activity (Real-Time)
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=codingnoobno1&show_icons=true&theme=tokyonight&hide=issues&count_private=true" 
-    alt="GitHub Stats"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingnoobno1&layout=compact&theme=tokyonight&hide=html,css,scss,shell,batchfile&langs_count=8&cache_seconds=86400" />
+
 </p>
 
 ---
